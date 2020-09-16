@@ -27,3 +27,4 @@ urlpatterns = [
     path('musics_index', views.music_view, name='mi')
 
 ]
+asdasd
